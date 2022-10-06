@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\bin\Debug\BoxSiteStealer.exe.config
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\bin\Debug\BoxSiteStealer.exe
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\bin\Debug\BoxSiteStealer.pdb
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.Form1.resources
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.Properties.Resources.resources
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.exe
+C:\Users\Denis\Desktop\Мои программы c#\BoxSiteStealer\BoxSiteStealer\BoxSiteStealer\obj\Debug\BoxSiteStealer.pdb

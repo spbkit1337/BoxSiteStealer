@@ -40,4 +40,4 @@
 
 4) Ролик по Wget https://www.youtube.com/watch?v=hxO7QYcScXU
 
-+ доп. неплохой урок по работе с WinAPI чтобы иметь представление по работе с библеотеками windows  https://www.youtube.com/watch?v=KYq2WF3otxc (в самом уроке как рак показано как скруглить кнопку)
++ доп. неплохой урок по работе с WinAPI чтобы иметь представление по работе с библеотеками windows  https://www.youtube.com/watch?v=KYq2WF3otxc (в самом уроке как раз показано как скруглить кнопку)
